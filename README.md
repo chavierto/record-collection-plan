@@ -8,8 +8,13 @@ Once the records are in the database, the user can search and retrieve them and 
 
 The app will be built using Django with REST Framework and PostgreSQL for the backend and React for the frontend.
 
+<br>
+
 ## Wireframes
 
+<img src='./resources/record-collection-main-wireframes.svg' alt='Home view' width='500'/>
+
+<br>
 <br>
 
 ## User Stories
@@ -24,9 +29,9 @@ The app will be built using Django with REST Framework and PostgreSQL for the ba
 
 - _As a user, I want to be able add records to my collection, being able to fill out the information for the album: artist, album title, release year, genre, label and the tracklist._
 
-### _Post MVP Silver Goals_
-
 - _As a user, I want to be able to see the cover of my records._
+
+### _Post MVP Silver Goals_
 
 - _As a user, I want to be able to search for a record._
 
@@ -38,12 +43,20 @@ The app will be built using Django with REST Framework and PostgreSQL for the ba
 
 - _As a user, I want to be able to populate my fields from the Discogs API so that I don't have to fill out all the information manually._
 
+- _As a user, I want to be able to have a favorites list where I can have all the records I've marked as favorite._
+
 <br>
-
-## Backend
-
-The backend will be built with Django and deployed to Heroku. It will use the REST Framework to interact with a React frontend.
 
 ## Frontend
 
 The frontend will be built with HTML, CSS and React for the user interface and component structure, and Axios for making the API calls. It will be deployed to Heroku.
+
+<img src='./resources/record-collection-component-hierarchy.svg' alt='Home view' width='500'/>
+
+<br>
+
+<br>
+
+## Backend
+
+The backend will be built with Django and deployed to Heroku. It will use the REST Framework to interact with the React frontend.
