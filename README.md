@@ -8,6 +8,8 @@ Once the records are in the database, the user can search and retrieve them and 
 
 The app will be built using Django with REST Framework and PostgreSQL for the backend and React for the frontend.
 
+[Here's a link to the Trello board that tracks the project](https://trello.com/b/XyPSisRn)
+
 <br>
 
 ## Wireframes
@@ -36,8 +38,6 @@ The app will be built using Django with REST Framework and PostgreSQL for the ba
 - _As a user, I want to be able to search for a record._
 
 - _As a user, I want to be able to sort the current view or search results by different values._
-
-- _As a user, I want all my interactions with the app to happen over HTTPS to ensure my privacy._
 
 ### _Post MVP Gold Goals_
 
