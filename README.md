@@ -59,4 +59,4 @@ The frontend will be built with HTML, CSS and React for the user interface and c
 
 ## Backend
 
-The backend will be built with Django and deployed to Heroku. It will use the REST Framework to interact with the React frontend.
+The backend will be built with Django and deployed to Heroku. It will use the Django REST Framework to interact with the React frontend.
