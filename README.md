@@ -29,7 +29,7 @@ The app will be built using Django with REST Framework and PostgreSQL for the ba
 
 - _As a user, I want to be able to click on a record if it interests me so that I can read all the information about the record._
 
-- _As a user, I want to be able add records to my collection, being able to fill out the information for the album: artist, album title, release year, genre, label and the tracklist._
+- _As a user, I want to be able add records to my collection, and to fill out the information for the album: artist, album title, release year, acquired date, genre, label and the tracklist._
 
 - _As a user, I want to be able to see the cover of my records._
 
